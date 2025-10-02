@@ -1,0 +1,4 @@
+{
+  "name": "QPN-0: Post-Quantum Zero Trust",
+  "description": "A management interface for a software-defined Post-Quantum Cryptography (PQC) embedded VPN, supporting client, server, and point-to-point modes."
+}
